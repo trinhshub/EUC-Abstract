@@ -1,3 +1,5 @@
+[Go Back to Main](https://trinhshub.github.io/)
+
 **Integrating Economic and Utility Concepts for A Comprehensive Bridge Valuation Model**
 
 **Abstract**
@@ -9,5 +11,3 @@ Bridge is an important branch of transportation infrastructure asset as the brid
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/47671910/68419951-dc232380-0160-11ea-86e4-cdc86c25db21.png">
 
 Please shoot me an email if you would like a copy of this paper.
-
-[Go Back to Main](https://trinhshub.github.io/)
