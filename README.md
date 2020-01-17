@@ -2,7 +2,7 @@
 
 ## Integrating Economic and Utility Concepts for a Comprehensive Bridge Management Model
 
-T. Hoang, Z. Han, and Z. Zhang. (2019) Integrating Economic and Utility Concepts for a Comprehensive Bridge Management Model. Accepted for presentation at the 99th Transportation Research Board Annual Conference. Under review for publication in the Transportation Research Record.
+T. Hoang, Z. Han, and Z. Zhang. (2019) Integrating Economic and Utility Concepts for a Comprehensive Bridge Management Model. Under review. Presented at the 99th Transportation Research Board Annual Conference.
 
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/47671910/72596235-3ebb3d00-38d1-11ea-8a7f-dc888b0a8c49.JPG">
