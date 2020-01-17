@@ -14,4 +14,6 @@ Existing bridge valuation approaches mostly focus on the construction cost while
 
 **Methodological Framework**
 
-<img width="777" alt="image" src="https://user-images.githubusercontent.com/47671910/68419951-dc232380-0160-11ea-86e4-cdc86c25db21.png">
+<p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/47671910/68419951-dc232380-0160-11ea-86e4-cdc86c25db21.png">
+</p>
